@@ -1,5 +1,3 @@
-// src/domain/speechResult.ts
-
 export interface SpeechResult {
     id: number;
     text: string;
